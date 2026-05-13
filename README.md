@@ -163,4 +163,4 @@ The generated HTML is written to `docs/build/`.
 
 ## Licence
 
-Copyright © 2025 David A. W. Barton, University of Bristol.
+Copyright © 2026 David A. W. Barton.
