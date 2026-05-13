@@ -20,6 +20,7 @@ Aqua = "4c88cf16-eb10-579e-8560-4a9242c79595"
 test = ["Aqua", "Test"]
 
 [compat]
+Aqua = "0.8"
 FFTW = "1.10.0"
 Interpolations = "0.16"
 LinearAlgebra = "1.10"
