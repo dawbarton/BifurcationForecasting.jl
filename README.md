@@ -1,5 +1,12 @@
 # BifurcationForecasting.jl
 
+[![Stable Documentation](https://img.shields.io/badge/docs-stable-blue.svg)](https://dawbarton.github.io/BifurcationForecasting.jl/stable)
+[![Development documentation](https://img.shields.io/badge/docs-dev-blue.svg)](https://dawbarton.github.io/BifurcationForecasting.jl/dev)
+[![Test workflow status](https://github.com/dawbarton/BifurcationForecasting.jl/actions/workflows/Test.yml/badge.svg?branch=main)](https://github.com/dawbarton/BifurcationForecasting.jl/actions/workflows/Test.yml?query=branch%3Amain)
+[![Coverage](https://codecov.io/gh/dawbarton/BifurcationForecasting.jl/branch/main/graph/badge.svg)](https://codecov.io/gh/dawbarton/BifurcationForecasting.jl)
+[![Docs workflow Status](https://github.com/dawbarton/BifurcationForecasting.jl/actions/workflows/Docs.yml/badge.svg?branch=main)](https://github.com/dawbarton/BifurcationForecasting.jl/actions/workflows/Docs.yml?query=branch%3Amain)
+[![BestieTemplate](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/JuliaBesties/BestieTemplate.jl/main/docs/src/assets/badge.json)](https://github.com/JuliaBesties/BestieTemplate.jl)
+
 > **AI-generated code.** This package was written by Claude (Anthropic) under
 > the direction of David A. W. Barton.  All scientific content has been
 > reviewed by the author, but the implementation should be treated with

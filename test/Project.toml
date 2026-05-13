@@ -1,0 +1,7 @@
+[deps]
+BifurcationForecasting = "b4655097-ae25-5163-bf61-d3c9a0adde9a"
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+TOML = "fa267f1f-6049-4f14-aa54-33bafae1ed76"
+
+[sources]
+BifurcationForecasting = {path = ".."}
