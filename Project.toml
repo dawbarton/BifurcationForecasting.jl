@@ -21,11 +21,11 @@ test = ["Aqua", "Test"]
 
 [compat]
 Aqua = "0.8"
-FFTW = "1.10.0"
+FFTW = "1.10"
 Interpolations = "0.16"
 LinearAlgebra = "1.10"
 NonlinearSolve = "4"
-OrdinaryDiffEq = "7.0.0"
+OrdinaryDiffEq = "7"
 Random = "1.10"
 Statistics = "1.10"
 Test = "1.10"
