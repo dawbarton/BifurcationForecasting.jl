@@ -65,6 +65,7 @@ makedocs(;
     sitename = "BifurcationForecasting.jl",
     format = Documenter.HTML(; canonical = "https://dawbarton.github.io/BifurcationForecasting.jl"),
     pages = list_pages(),
+    checkdocs = :exports,
 )
 
 deploydocs(; repo = "github.com/dawbarton/BifurcationForecasting.jl")
