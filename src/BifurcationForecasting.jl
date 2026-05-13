@@ -22,13 +22,14 @@
 
 module BifurcationForecasting
 
-using LinearAlgebra
-using Random
-using Statistics
-using FFTW
-using Interpolations
-using OrdinaryDiffEq
-using NonlinearSolve
+using LinearAlgebra: LinearAlgebra, Diagonal, I, cond, dot, eigen, norm, pinv, svd
+using Random: Random, randperm
+using Statistics: Statistics, mean, std
+using FFTW: FFTW, fft, fftfreq, ifft
+using Interpolations: Interpolations, Line, linear_interpolation
+using OrdinaryDiffEq: OrdinaryDiffEq, Tsit5
+using NonlinearSolve: NonlinearSolve, AutoFiniteDiff, LevenbergMarquardt, NonlinearFunction, NonlinearLeastSquaresProblem,
+    ODEProblem, ReturnCode, solve
 
 include("types.jl")
 include("era.jl")

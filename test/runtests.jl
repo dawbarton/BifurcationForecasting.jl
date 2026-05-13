@@ -13,3 +13,7 @@ using BifurcationForecasting
     include("test_analytical_1dof.jl")
     include("test_aeroelastic_full.jl")
 end
+
+@testset "Aqua.jl" begin
+    include("Aqua.jl")
+end
