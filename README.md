@@ -7,7 +7,7 @@
 [![Docs workflow Status](https://github.com/dawbarton/BifurcationForecasting.jl/actions/workflows/Docs.yml/badge.svg?branch=main)](https://github.com/dawbarton/BifurcationForecasting.jl/actions/workflows/Docs.yml?query=branch%3Amain)
 [![BestieTemplate](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/JuliaBesties/BestieTemplate.jl/main/docs/src/assets/badge.json)](https://github.com/JuliaBesties/BestieTemplate.jl)
 
-> !WARNING
+> [!WARNING]
 > **AI-generated code.** This package was written by Claude (Anthropic) under
 > the direction of David A. W. Barton.  All scientific content has been
 > reviewed by the author, but the implementation should be treated with
