@@ -39,7 +39,7 @@ is expensive.
 ## Primary references
 
 | Reference | Topic |
-|-----------|-------|
+|:----------|:------|
 | Ghadami & Epureanu (2016) *J. Comput. Nonlinear Dyn.* **11**, 061009. [doi](https://doi.org/10.1115/1.4033920) | Core CSD method, ERA projection, finite-difference and ODE envelope estimators |
 | Riso, Cesnik & Epureanu (2021) *J. Fluids Struct.* **101**, 103201. [doi](https://doi.org/10.1016/j.jfluidstructs.2020.103201) | Multi-parameter polynomial surface, bifurcation diagram extraction |
 | Riso, Cesnik & Epureanu (2022) *AIAA J.* **60**, 5401–5413. [doi](https://doi.org/10.2514/1.J061860) | State velocity method |
